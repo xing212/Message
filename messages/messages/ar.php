@@ -134,4 +134,5 @@ $messages = [
     "volt_our_products_ca "                          =>"منتجاتنا",
     "volt_showcase_ca"                               =>"الواجهة",
     "volt_recent_news_ca"                            =>"آخر الأخبار",
+    "volt_anything_please"                           => "أشياء من فضلك",
 ];
